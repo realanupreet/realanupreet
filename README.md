@@ -1,5 +1,5 @@
 # Hii 🍇
-- 👋 Hi, I’m @realanupreet
+- 👋 Hi, I’m Anupreet Singh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on startup projects to expand my skills
