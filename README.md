@@ -24,6 +24,28 @@
 
 </div>
 
+<div align="center">
+<br>
+<br>
+<img src="./stats.png"  width="200">
+
+</div>
+<div align="center">
+
+<img width="800" src="https://streak-stats.demolab.com?user=realanupreet&theme=aura&card_width=800&hide_border=true"/></br>
+
+<div>
+
+<img  src="https://github-readme-stats.vercel.app/api?username=realanupreet&theme=aura&include_all_commits=true&card_width=400&hide_border=true&rank_icon=github"/><img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realanupreet&hide_progress=true&langs_count=10&theme=aura&hide_border=true"/>
+
+</div>
+<!-- <img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/langs?time_range=one_year&theme=dark"/>&ensp; <img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/repos?time_range=one_year&theme=dark"/> -->
+</div>
+
+<br>
+
+
+
   <!---
   realanupreet/realanupreet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
