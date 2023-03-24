@@ -44,6 +44,11 @@
 
 <br>
 
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/realanupreet?theme=dark&font=JetBrains%20Mono&ext=heatmap)
+
+</div>
 
 
   <!---
