@@ -30,6 +30,8 @@
 <img src="./stats.png"  width="200">
 
 </div>
+<br>
+<br>
 <div align="center">
 
 <img width="800" src="https://streak-stats.demolab.com?user=realanupreet&theme=aura&card_width=800&hide_border=true"/></br>
@@ -49,7 +51,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/realanupreet?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
 </div>
-
 
 [![An image of @realanupreet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realanupreet)](https://holopin.io/@realanupreet)
 
